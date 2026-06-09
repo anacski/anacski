@@ -14,7 +14,7 @@ Estou buscando criatividade, aprendizado constante, me consolidar como uma Desen
 
 ---
 
-### Minha Stack & Tecnologias
+### 🛠️ Minha Stack & Tecnologias
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,11 +29,6 @@ Estou buscando criatividade, aprendizado constante, me consolidar como uma Desen
 ### 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anacski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Ana Carolina" height="150" />
-</p>
-
-### 🧰 Tecnologias
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacski&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Tecnologias" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anacski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Ana Carolina" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacski&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Tecnologias" height="165" />
 </p>
