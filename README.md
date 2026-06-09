@@ -2,9 +2,8 @@
 
 **`Information Systems Student`**
 
-Olá! Meu nome é [Ana Carolina](https://www.instagram.com/anacski/), eu tenho 20 anos, sou carioca e estudante de Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO). Sou uma entusiasta da tecnologia movida pela curiosidade de aprender e pela vontade de construir soluções que facilitem a vida das pessoas.
-
-Atualmente, meu foco principal é me consolidar como um **Desenvolvedor FullStack**, mas também venho estreitando laços com o universo de **Dados** para criar aplicações ainda mais robustas e inteligentes.
+Olá! Meu nome é [Ana Carolina](https://www.instagram.com/anacski/), eu tenho 20 anos, sou natural do Rio de Janeiro e estudante de Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO). 
+Estou buscando criatividade, aprendizado constante, me consolidar como uma Desenvolvedora FullStack, e também venho estreitando laços com o universo de Dados para criar aplicações ainda mais robustas e inteligentes.
 
 ### 🤝 Vamos nos conectar?
 
@@ -31,14 +30,14 @@ Atualmente, meu foco principal é me consolidar como um **Desenvolvedor FullStac
 
 ---
 
-###  Estatísticas
+### 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=anacski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Ana Carolina" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anacski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Ana Carolina" height="150" />
 </p>
 
-### Tecnologias
+### 🧰 Tecnologias
 
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Tecnologias" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacski&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Tecnologias" height="150" />
 </p>
