@@ -27,8 +27,10 @@ Estou buscando criatividade, aprendizado constante, me consolidar como uma Desen
 <p>
       <img 
         align="left"
+        style="padding-right: 10 px;"
         src="https://github-readme-stats.vercel.app/api?username=anacski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Ana Carolina" height="200">
       <img 
         align="left"
+        style="padding-right: 10 px;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacski&layout=compact&theme=tokyonight&langs_count=5&card_width=400" alt="Tecnologias" height="200" />
 </p>
