@@ -21,9 +21,8 @@ Estou buscando criatividade, aprendizado constante, me consolidar como uma Desen
 ![Plone](https://img.shields.io/badge/Plone-0083BE?style=for-the-badge&logo=plone&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
-### 🤖 Estatísticas
+### 📊 Estatísticas
 
 <p>
       <img 
