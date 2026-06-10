@@ -28,7 +28,13 @@ Estou buscando criatividade, aprendizado constante, me consolidar como uma Desen
 
 ### 🤖 Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anacski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Ana Carolina" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacski&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Tecnologias" height="165" />
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=anacski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Ana Carolina" height="175" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacski&layout=compact&theme=tokyonight&langs_count=5" alt="Tecnologias" height="175" />
+    </td>
+  </tr>
+</table>
