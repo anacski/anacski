@@ -2,19 +2,19 @@
 
 **`Information Systems Student`**
 
-Olá! Meu nome é [Ana Carolina](https://www.instagram.com/anacski/), eu tenho 20 anos, sou natural do Rio de Janeiro e estudante de Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO). 
+Olá! Meu nome é Ana Carolina, eu tenho 20 anos, sou natural do Rio de Janeiro e estudante de Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO). 
 
 Estou buscando criatividade, aprendizado constante, me consolidar como uma Desenvolvedora FullStack, e também venho estreitando laços com o universo de Dados para criar aplicações ainda mais robustas e inteligentes.
 
 ### 🤝 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
-[![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/SEU_USUARIO_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-barbosa-santos)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anacski2@gmail.com)
+[![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/anacski)
 
 ---
 
-### 🛠️ Minha Stack & Tecnologias
+### 🤖 Minha Stack & Tecnologias
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,7 +26,7 @@ Estou buscando criatividade, aprendizado constante, me consolidar como uma Desen
 
 ---
 
-### 📊 Estatísticas
+### 🤖 Estatísticas
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=anacski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Ana Carolina" height="165" />
