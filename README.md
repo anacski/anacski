@@ -36,7 +36,7 @@ Estou buscando criatividade, aprendizado constante, me consolidar como uma Desen
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacski&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
