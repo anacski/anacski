@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Ana Carolina Barbosa
 
-**`Information Systems Student`**
+**`Desenvolvedora Web`**
 
 Olá! Meu nome é Ana Carolina, eu tenho 20 anos, sou natural do Rio de Janeiro e estudante de Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO). 
 
