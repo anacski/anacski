@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Web`**
 
-Olá! Meu nome é Ana Carolina, eu tenho 20 anos, sou natural do Rio de Janeiro e estudante de Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO). 
+Olá! Meu nome é Ana Carolina, eu tenho 20 anos, sou natural do Rio de Janeiro e graduanda em Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO). 
 
 Estou buscando criatividade, aprendizado constante, me consolidar como uma Desenvolvedora FullStack, e também venho estreitando laços com o universo de Dados para criar aplicações ainda mais robustas e inteligentes.
 
