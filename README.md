@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Web`**
 
-Olá! Meu nome é Ana Carolina, eu tenho 20 anos, sou natural do Rio de Janeiro e graduanda em Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO). 
+Olá! Meu nome é Ana Carolina, tenho 20 anos, e sou graduanda em Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO). 
 
 Estou buscando criatividade, aprendizado constante, me consolidar como uma Desenvolvedora FullStack, e também venho estreitando laços com o universo de Dados para criar aplicações ainda mais robustas e inteligentes.
 
@@ -20,3 +20,22 @@ Estou buscando criatividade, aprendizado constante, me consolidar como uma Desen
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Plone](https://img.shields.io/badge/Plone-0083BE?style=for-the-badge&logo=plone&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=anacski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacski&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
+  />
+</p>
