@@ -23,7 +23,7 @@ Estou buscando criatividade, aprendizado constante, me consolidar como uma Desen
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -31,7 +31,6 @@ Estou buscando criatividade, aprendizado constante, me consolidar como uma Desen
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=anacski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&locale=pt-br" 
   />
-
   <img 
     align="left" 
     alt="GitHub Stats" 
