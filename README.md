@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Ana Carolina Barbosa
+# 👩🏽‍💻 
 
 **`Desenvolvedora Web`**
 
