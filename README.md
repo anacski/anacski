@@ -1,4 +1,4 @@
-# 👩🏽‍💻 **`Desenvolvedora Web`**
+**`Desenvolvedora Web  👩🏽‍💻`**
 
 Olá! Sou graduanda em Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO). 
 
