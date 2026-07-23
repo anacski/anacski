@@ -2,9 +2,9 @@
 
 **`Desenvolvedora Web`**
 
-Olá! Meu nome é Ana Carolina, tenho 20 anos, e sou graduanda em Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO). 
+Olá! Sou graduanda em Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO). 
 
-Estou buscando criatividade, aprendizado constante, me consolidar como uma Desenvolvedora FullStack, e também venho estreitando laços com o universo de Dados para criar aplicações ainda mais robustas e inteligentes.
+Estou buscando criatividade, aprendizado constante, me consolidar como uma Desenvolvedora FullStack, e também venho estreitando laços com o universo de Dados.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-barbosa-santos)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anacski2@gmail.com)
