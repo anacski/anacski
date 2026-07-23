@@ -13,13 +13,13 @@ Estou buscando criatividade, aprendizado constante, me consolidar como uma Desen
 
 ### 🤖 Minha Stack & Tecnologias
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Plone](https://img.shields.io/badge/Plone-0083BE?style=for-the-badge&logo=plone&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Plone](https://img.shields.io/badge/-0083BE?style=for-the-badge&logo=plone&logoColor=white)
+![MySQL](https://img.shields.io/badge/-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 Estatísticas
 
